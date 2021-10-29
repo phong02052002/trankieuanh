@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "crs",
+    titleWeb: "superpro",
     introTitle: 'gửi cậu, chính cậu đóo',
     introDesc: `Trái đất vốn lạ thường
     Mà sao anh cứ đi nhầm đường
